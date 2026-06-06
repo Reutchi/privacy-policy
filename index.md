@@ -31,7 +31,7 @@ Somnio is operated by:
 **Dan Reutchi**
 Romania
 
-Contact: **[support@somnio.app](mailto:support@somnio.app)**
+Contact: **[support@somnio.app](mailto:reutchi1997@gmail.com)**
 
 ---
 
@@ -180,7 +180,7 @@ If Somnio ever introduces optional cloud-based features or any new form of data 
 
 For privacy-related questions, requests, or concerns:
 
-**[support@somnio.app](mailto:support@somnio.app)**
+**[support@somnio.app](mailto:reutchi1997@gmail.com)**
 
 We aim to respond within 7 business days.
 
